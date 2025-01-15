@@ -7,3 +7,7 @@ https://chatgpt.com/
 https://www.chatpdf.com/
 ### AskYourPDF
 https://askyourpdf.com/
+### Kaggle
+https://www.kaggle.com/
+### Roboflow
+https://roboflow.com/
