@@ -9,5 +9,6 @@ https://www.chatpdf.com/
 https://askyourpdf.com/
 ### Kaggle
 https://www.kaggle.com/
+https://www.kaggle.com/datasets/dataturks/face-detection-in-images
 ### Roboflow
 https://roboflow.com/
